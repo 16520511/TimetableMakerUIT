@@ -1,0 +1,35 @@
+﻿td.class-cell {
+    border: 1px solid black !important;
+    background-color: #e4e1e1 !important;
+    text-align: center;
+    padding: 10px 0 !important;
+}
+
+h4 {
+    background-color: #6963ef;
+    margin: 25px 0 0 0 !important;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+td.class-cell p{
+    font-weight: 600;
+    margin: 5px 0;
+}
+
+td:not(.day-label) {
+    width: 15.5%;
+}
+
+td.day-label {
+    width: 7%;
+}
+
+th {
+    text-align: center;
+}
+
+textarea {
+    resize: none;
+}
